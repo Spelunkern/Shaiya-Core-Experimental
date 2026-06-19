@@ -1,4 +1,6 @@
-# Shaiya Core
+# Shaiya Core Experimental
+
+> **Experimental testing build.** This repository is used for active testing, validation, and early integration work. It is not recommended for public or production Shaiya servers. For live servers and production deployments, use the mainstream stable repository: https://github.com/Spelunkern/Shaiya-Core
 
 Shaiya Core is a C++ library and patching framework designed to modernize, improve, and extend Shaiya private servers through an elegant, configurable, and easy-to-maintain universal base.
 
@@ -12,7 +14,9 @@ The Core Discord community grew from the original ShaiyaGG Discord and focuses o
 
 ## Release Status
 
-**Shaiya Core v1.0 — Stable.** This is the first stable release and is considered production-ready and suitable for public use on live Shaiya private servers. All server services (`sdev`, `sdev-login`, `sdev-db`) and the client (`sdev-client`) build cleanly and have been verified as a complete bundle. Future work continues through the same versioned releases.
+**Shaiya Core Experimental - Testing build.** This branch of the project is intended for internal testing, experimental changes, and validation before features are considered for mainstream use. It may contain incomplete, unstable, or unverified changes and should not be used as the base for public servers.
+
+Production servers should use the mainstream stable Shaiya Core repository instead: https://github.com/Spelunkern/Shaiya-Core
 
 ## The Basics
 
